@@ -1,6 +1,6 @@
 # Angstrom Color Theme
 
-Like you're lost in space but it's okay because now you don't have to go to that meeting
+A color palette like you're lost in space, but it's okay because now you don't have to go to that meeting
 
 ## The palette:
 
